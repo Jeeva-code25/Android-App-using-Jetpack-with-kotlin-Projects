@@ -485,7 +485,7 @@ private fun TopBar(
 fun PrepGeniusProgressBar() {
 
     AlertDialog(
-        onDismissRequest = { /*TODO*/ }
+        onDismissRequest = {  }
     ) {
         Card (
             colors = CardDefaults.cardColors(containerColor = Color.White)
